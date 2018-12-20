@@ -30,6 +30,7 @@ https://www.youtube.com/watch?v=zi0t1IH6yZc
 
 
 For Single player mode: lastgame.cpp
+
 For 2 players mode: 2players.cpp
 
 Setup:
