@@ -39,5 +39,7 @@ For 2 players mode: 2players.cpp
 Setup:
 
 Four Speakers in four corners and  two webcams in opposite direction
-
+https://imgur.com/UlKfSiJ
+![Philadelphia's Magic Gardens. This place was so cool!]( https://imgur.com/UlKfSiJ "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 
