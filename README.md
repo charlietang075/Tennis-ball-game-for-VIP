@@ -16,28 +16,8 @@ Releases can be found on the release list.
 - Fmod API - fmod64.dll
 - Visual Studio 2015
 
-## Game Set-Up:
+## Setup:
 
-
-install OpenCV 3.3.0 - C++ with Visual Studio 2015 on Windows PC
-
-https://www.youtube.com/watch?v=l4372qtZ4dc
-
-
-Install FMOD library with Visual Studio 2015
-
-https://www.youtube.com/watch?v=zi0t1IH6yZc
-
-
-
-For Single player mode: lastgame.cpp
-
-For 2 players mode: 2players.cpp
-
-
-
-Setup:
-
-Four Speakers in four corners and  two webcams in opposite direction
-![Philadelphia's Magic Gardens. This place was so cool!]( C:\Users\USER\Desktop\rack photo\IMG_7684 "Philadelphia's Magic Gardens")
-
+#### One player mode
+Four Speakers in four corners and one webcamsin the center 
+![](https://i.imgur.com/UlKfSiJ.jpg=50x50)
