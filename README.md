@@ -20,4 +20,4 @@ Releases can be found on the release list.
 
 #### One player mode
 Four Speakers in four corners and one webcamsin the center 
-![](https://i.imgur.com/UlKfSiJ.jpg=50x50)
+<img src="https://i.imgur.com/UlKfSiJ.jpg" width="230" height="300"> ?
