@@ -14,4 +14,8 @@
 12.	在FMOD SoundSystem\FMOD Studio API Windows\api\lowlevel\lib尋找fmodL64.dll檔案
 13.	把fmodL64.dll複製到 v1.0文件夾內
 14.	打開v1.0 文件夾內1_player.exe (如雙人遊戲模式，打開2_player.exe)
-15.	遊戲開始
+15.	跟着指示，按'G'然後'Enter'來開始遊戲
+
+效果如圖：
+
+<img src="https://i.imgur.com/UlKfSiJ.jpg" width="230" height="300"> 
