@@ -1,22 +1,17 @@
-# Tennis-inspired Sound-Only Game for Visually Impaired People
-## Overview
-This project is a simple sound-only motion game inspired by Tennis, where players try to gain as many points as possible by identifying the source of sound between 4 speakers in turns. Players give their answers to the computer via motion detection using a webcam/related hardware. 
-Supports 1-2 players.
-## System Requirements
-A compatible computer with minimum 4 speakers and 1 webcam (2 for 2 player) is required. 
-We have tested the game on Windows using an external 5.1 channel sound card 4 speakers, and 1-2 Webcams.
-Only Windows is officially supported at the moment.
-The 4 speakers and 1-2 webcams are placed in the following example configuration (Upper left/right, lower left/right):
-<img src="https://i.imgur.com/UlKfSiJ.jpg" width="230" height="300"> 
-The fixture should be placed such that player(s) should each face a webcam and stand in the centre of the webcam’s view. 
-## How to play
-Head over to [Releases][releases] and grab the latest release and follow instructions to setup the game.
-Press “G” and Enter to start the game after the initial voice announcement.
-The game will now automatically run. During each turn, one speaker will make a sound. The player should raise his hand in response to the physical location of the speaker. The game will then make a corresponding sound to indicate if the answer is correct or incorrect.
-At the end of the game (10 turns), the score will be announced and the game will automatically quit.
-## Build and Dependencies
-Our releases are built for x64 Windows using Visual Studio 2015.
-The following dependencies are required for the game to function:
-- [OpenCV 3.3.0][https://opencv.org/releases.html]
-- [FMOD Studio API][https://www.fmod.com/download]
-The built program use DLLs (specifically, opencv_world330.dll and fmodL64.dll) to function which we do not include in our release or source. You may find these libraries available in the links above.
+# 遊戲設置
+
+1.	放置4個揚聲器到左上，左下，右上，右下 4個角
+2.	放置webcam於4個角中央 (如雙人遊戲模式，2個webcams背對背放置)
+3.	把webcam連接到電腦
+4.	把5.1聲卡連接到電腦和4個揚聲器 (揚聲器也需要連接USB供電)
+5.	左上右上揚聲器應當連接到 FRONT OUT接口
+6.	左下右下揚聲器應當連接到 REAR OUT接口
+7.	下載 release v1.0.zip
+8.	在 https://opencv.org/releases.html 下載OpenCV 3.3.0版本
+9.	在opencv\build\x64\vc14\lib尋找opencv_world330.dll檔案
+10.	把opencv_world330.dll複製到 v1.0 文件夾內
+11.	在 https://www.fmod.com/download 下載FMOD Studio API
+12.	在FMOD SoundSystem\FMOD Studio API Windows\api\lowlevel\lib尋找fmodL64.dll檔案
+13.	把fmodL64.dll複製到 v1.0文件夾內
+14.	打開v1.0 文件夾內1_player.exe (如雙人遊戲模式，打開2_player.exe)
+15.	遊戲開始
