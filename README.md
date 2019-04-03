@@ -7,9 +7,7 @@ A compatible computer with minimum 4 speakers and 1 webcam (2 for 2 player) is r
 We have tested the game on Windows using an external 5.1 channel sound card 4 speakers, and 1-2 Webcams.
 Only Windows is officially supported at the moment.
 The 4 speakers and 1-2 webcams are placed in the following example configuration (Upper left/right, lower left/right):
-
 <img src="https://i.imgur.com/UlKfSiJ.jpg" width="230" height="300"> 
-
 The fixture should be placed such that player(s) should each face a webcam and stand in the centre of the webcam’s view. 
 ## How to play
 Head over to [Releases][releases] and grab the latest release and follow instructions to setup the game.
