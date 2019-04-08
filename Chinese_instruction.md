@@ -6,7 +6,7 @@
 4.	把5.1聲卡連接到電腦和4個揚聲器 (揚聲器也需要連接USB供電)
 5.	左上右上揚聲器應當連接到 FRONT OUT接口
 6.	左下右下揚聲器應當連接到 REAR OUT接口
-7.	下載 release v1.0.zip
+7.	下載 [release](https://github.com/charlietang075/Tennis-ball-game-for-VIP/releases) v1.0.zip
 8.	在 https://opencv.org/releases.html 下載OpenCV 3.3.0版本
 9.	在opencv\build\x64\vc14\lib尋找opencv_world330.dll檔案
 10.	把opencv_world330.dll複製到 v1.0 文件夾內
