@@ -1,6 +1,6 @@
 # Tennis-inspired Sound-Only Game for Visually Impaired People
-[中文遊戲設置按此](https://github.com/charlietang075/Tennis-ball-game-for-VIP/blob/master/Chinese_instruction.md）
-## Overview
+[中文遊戲設置按此](https://github.com/charlietang075/Tennis-ball-game-for-VIP/blob/master/Chinese_instruction.md)
+
 This project is a simple sound-only motion game inspired by Tennis, where players try to gain as many points as possible by identifying the source of sound between 4 speakers in turns. Players give their answers to the computer via motion detection using a webcam/related hardware. 
 
 Supports 1-2 players.
